@@ -1,0 +1,2 @@
+# autobuy4yodobashi
+yodobashi.comで自動購入を行うBotプログラム
